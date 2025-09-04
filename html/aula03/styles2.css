@@ -1,0 +1,22 @@
+.conteudo {
+  background-color: cornflowerblue;
+  padding: 8px 16px 8px 16px;
+  border-radius: 1rem;
+}
+
+.menu-list {
+  font-size: 1rem;
+}
+
+/* ul {
+  list-style-type: armenian;
+}
+
+ol {
+  list-style-type: circle;
+} */
+
+a {
+  text-decoration: none;
+  color: white;
+}
